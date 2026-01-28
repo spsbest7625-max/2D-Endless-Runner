@@ -5,11 +5,10 @@ This repository contains a 2D Endless Runner game developed using the Unity Engi
 The project is based on an online tutorial and has been extended and modified for practice and experimentation.
 
 ## 🎯 Purpose
-- Learn Unity 2D workflow
+- Learn and Understand Unity 2D workflow
 - Understand player movement and physics
 - Implement endless level generation
-- Practice C# scripting in Unity
-- Version control using Git & GitHub
+- Understanding C# scripting in Unity
 
 ## 🛠️ Tech Stack
 - Game Engine: Unity
